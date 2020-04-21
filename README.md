@@ -1,8 +1,5 @@
 # belief_challenge_server
 
-> Belief Challenge Server
-
-# Author Zain Ahmed Saad Sami | vServices Team
 ## Build Setup
 
 # install dependencies
